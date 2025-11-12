@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpgvectorcpp.a CMakeFiles/pgvectorcpp.dir/core/vector_core.cpp.o CMakeFiles/pgvectorcpp.dir/indexes/vector_indexes.cpp.o CMakeFiles/pgvectorcpp.dir/utils/vector_utils.cpp.o CMakeFiles/pgvectorcpp.dir/io/vector_io.cpp.o CMakeFiles/pgvectorcpp.dir/postgres/pg_integration.cpp.o
+/usr/bin/ranlib libpgvectorcpp.a
